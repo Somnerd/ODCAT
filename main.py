@@ -1,4 +1,4 @@
-Zimport cv2 as cv
+import cv2 as cv
 import time
 import math
 
